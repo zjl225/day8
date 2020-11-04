@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+body {
+            background-image: url(image/1.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        #box1{
+            width: 1160px;
+            height: 55px;
+            margin: 0 auto;
+            color: white;
+            display: flex;
+        }
+       #box1>.Iconfent>a{
+           margin: 0px 40px 0px 0px;
+           color: white;
+           font-weight: bold;
+           font-size: 25px;
+           line-height: 55px;
+       }
+       #box1>#shouye>li>a{
+        margin: 0px 15px;
+        color:rgb(180, 168, 168);
+        font-size: 15px;
+        line-height: 55px;
+     }
+     #box1>#chatuku>li>a{
+        margin: 0px 15px;
+        color:rgb(180, 168, 168);
+        font-size: 15px;
+        line-height: 55px;
+     }
+     #box1>#tubiaoku>.tubiaoku1>a{
+        margin: 0px 15px;
+        color:rgb(180, 168, 168);
+        font-size: 15px;
+        line-height: 55px;
+     }
+     #box1>#tubiaoku>.tubiaoku1>#tubiaoku11>li>a{
+         display:block;
+         height: 30px;
+         color: white;
+         font-size: 13px;
+         padding: 0px 0px 0px 14px;
+     }
+     #box1>#ziyuan>.ziyuan1>a{
+        margin: 0px 15px;
+        color:rgb(180, 168, 168);
+        font-size: 15px;
+        line-height: 55px;
+     }
+    #box1>#ziyuan>.ziyuan1>#ziyuan11>li>a{
+        display:block;
+        height: 30px;
+        color:  white;
+        font-size: 14px;
+        padding: 0px 0px 0px 14px;
+    }
+    #box1>#bangzhu>.bangzhu1>a{
+        margin: 0px 15px;
+        color:rgb(180, 168, 168);
+        font-size: 15px;
+        line-height: 55px;
+     }
+    #box1>#bangzhu>.bangzhu1>#bangzhu11>li>a{
+        display:block;
+        height: 30px;
+        color:  white;
+        font-size: 14px;
+        padding: 0px 0px 0px 14px;
+    }
+    #box1>#huodong>li>a{
+        margin: 0px 5px 0px 15px;
+        color:rgb(180, 168, 168);
+        font-size: 14px;
+        line-height: 55px;
+     }
+     #box1>#huodong>li>img{
+         height: 15px;
+     }
